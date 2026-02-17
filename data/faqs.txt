@@ -1,0 +1,23 @@
+Q: How can I check my account balance?
+A: You can check your account balance through net banking, mobile banking app, ATM, SMS banking, or by visiting your nearest branch.
+
+Q: How can I download my bank statement?
+A: Bank statements can be downloaded from net banking or mobile banking. You can also request a physical statement from the branch.
+
+Q: What should I do if my ATM card is lost?
+A: If your ATM card is lost, immediately block it using net banking, mobile app, or by calling customer care. You can request a replacement card from the bank.
+
+Q: How long does a domestic money transfer take?
+A: NEFT transactions usually take up to 2 working hours. IMPS transfers are instant. RTGS transfers are processed in real time during banking hours.
+
+Q: What are the bank working hours?
+A: Bank branches generally operate from 9:00 AM to 4:00 PM, Monday to Friday, excluding public holidays.
+
+Q: How can I reset my net banking password?
+A: You can reset your net banking password online using your registered mobile number and debit card details.
+
+Q: Is there any charge for balance inquiry?
+A: Balance inquiry through mobile banking and net banking is free of cost.
+
+Q: How can I update my mobile number?
+A: Mobile number can be updated by visiting your branch with a valid ID proof.

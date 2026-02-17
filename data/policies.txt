@@ -1,0 +1,27 @@
+Personal Loan Policy:
+Personal loans require valid KYC documents such as Aadhaar, PAN card, and income proof.
+The loan tenure ranges from 1 to 5 years.
+Interest rates vary based on the applicant's credit score and income.
+
+Home Loan Policy:
+Home loans are available for purchase, construction, or renovation of residential property.
+Maximum tenure is up to 30 years.
+Applicants must provide property documents, income proof, and identity proof.
+
+Education Loan Policy:
+Education loans are provided for higher studies in India and abroad.
+A co-applicant (parent or guardian) is mandatory.
+Repayment starts after course completion plus a moratorium period.
+
+Vehicle Loan Policy:
+Vehicle loans are available for both two-wheelers and four-wheelers.
+Loan tenure can range from 1 to 7 years.
+Vehicle registration and insurance documents are required.
+
+KYC Policy:
+KYC is mandatory for all banking services.
+Documents include Aadhaar card, PAN card, passport, or voter ID.
+
+Transaction Policy:
+Transactions above a certain limit may require additional verification.
+Suspicious transactions may be temporarily blocked for security reasons.

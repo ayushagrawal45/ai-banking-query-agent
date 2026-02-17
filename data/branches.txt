@@ -1,0 +1,35 @@
+Branch Name: Main Branch
+Location: Delhi
+Address: Connaught Place, New Delhi
+Working Hours: 9:00 AM - 4:00 PM
+Contact: 011-23456789
+
+Branch Name: City Branch
+Location: Noida
+Address: Sector 18, Noida
+Working Hours: 9:00 AM - 4:00 PM
+Contact: 0120-3456789
+
+Branch Name: Tech Park Branch
+Location: Bengaluru
+Address: Whitefield Tech Park
+Working Hours: 9:30 AM - 4:30 PM
+Contact: 080-45678901
+
+Branch Name: Business Bay Branch
+Location: Mumbai
+Address: Bandra Kurla Complex
+Working Hours: 9:00 AM - 4:00 PM
+Contact: 022-56789012
+
+Branch Name: IT Hub Branch
+Location: Hyderabad
+Address: Hitech City
+Working Hours: 9:30 AM - 4:30 PM
+Contact: 040-67890123
+
+Branch Name: Central Branch
+Location: Chennai
+Address: Anna Salai
+Working Hours: 9:00 AM - 4:00 PM
+Contact: 044-78901234
